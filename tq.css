@@ -41,7 +41,6 @@ h3 {
 }
 
 
-/* UTILITIES */
 
 .container {
     width: 100vw;
@@ -79,9 +78,6 @@ h3 {
 .hidden {
     display: none;
 }
-
-
-/* BUTTONS */
 
 .btn {
     font-size: 1.8rem;
